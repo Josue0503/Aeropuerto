@@ -6,7 +6,7 @@
 }
 /*estilo para body*/
 body{
-    background-image: url(img/aero2.jfif);
+    background-image: url(../img/aero2.jfif);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
