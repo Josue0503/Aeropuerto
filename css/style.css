@@ -6,7 +6,7 @@
 }
 /*estilo para body*/
 body{
-    background-image: url(/img/fondo.jfif);
+    background-image: url(img/fondo.jfif);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
